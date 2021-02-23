@@ -115,7 +115,7 @@ Release date: **February 18, 2021**
 | Feature | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Target Date | Description |
 | ----------- | ---------- | ------- |
 | Analysis Workspace – Component selection | February 4, 2021 | The drop-down/drop zone component found in [!UICONTROL Quick Insights] has been added to all drop zones in [!UICONTROL Workspace]. This enhancement allows you to pick from a drop-down list of compatible components or continue to use the space as a drop zone. | 
-| Analytics dashboards language selection | January 14, 2021 | You can now select a language in the Analytics dashboard. |
+| Analytics dashboards language selection | January 14, 2021 | You can now select a language in the Analytics dashboard. Select Settings > Preferences > Language.|
 
 ### New features in Customer Journey Analytics {#cust-journey}
 
